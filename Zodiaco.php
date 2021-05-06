@@ -28,6 +28,7 @@
     <option value="capricornio">Capricornio</option>
     <option value="acuario">Acuario</option>
     <option value="pisis">Tauro</option>
+    <option value="a">opcion</option>
     </select>
     <input type="submit" value="Enviar docente" name="Ok">
     </form>
